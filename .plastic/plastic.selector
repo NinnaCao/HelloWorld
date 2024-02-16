@@ -1,0 +1,4 @@
+repository "HelloWorld@NinnaCao@cloud"
+  path "/"
+    br "/main"
+    co "/main"
